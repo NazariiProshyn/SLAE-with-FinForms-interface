@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Курсова інтерфейс\Example\Example\Debug\Example.vcxprojAssemblyReference.cache
+C:\Users\user\Desktop\Курсова інтерфейс\Example\Example\Debug\Example.MyForm.resources
+C:\Users\user\Desktop\Курсова інтерфейс\Example\Example\Debug\Example.SLARForm1.resources
+C:\Users\user\Desktop\Курсова інтерфейс\Example\Example\Debug\Example.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\Курсова інтерфейс\Example\Example\Debug\Example.Graph1.resources
